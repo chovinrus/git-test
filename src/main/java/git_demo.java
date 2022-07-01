@@ -4,6 +4,6 @@
  */
 public class git_demo {
     public static void main(String[] args) {
-        System.out.println("to be pulled!");
+        System.out.println("to be synchronized!");
     }
 }
